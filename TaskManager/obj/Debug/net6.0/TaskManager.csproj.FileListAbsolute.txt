@@ -1,0 +1,15 @@
+C:\Projects\c#\TaskManager\TaskManager\bin\Debug\net6.0\TaskManager.exe
+C:\Projects\c#\TaskManager\TaskManager\bin\Debug\net6.0\TaskManager.deps.json
+C:\Projects\c#\TaskManager\TaskManager\bin\Debug\net6.0\TaskManager.runtimeconfig.json
+C:\Projects\c#\TaskManager\TaskManager\bin\Debug\net6.0\TaskManager.dll
+C:\Projects\c#\TaskManager\TaskManager\bin\Debug\net6.0\TaskManager.pdb
+C:\Projects\c#\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.csproj.AssemblyReference.cache
+C:\Projects\c#\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.AssemblyInfoInputs.cache
+C:\Projects\c#\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.AssemblyInfo.cs
+C:\Projects\c#\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Projects\c#\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.dll
+C:\Projects\c#\TaskManager\TaskManager\obj\Debug\net6.0\refint\TaskManager.dll
+C:\Projects\c#\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.pdb
+C:\Projects\c#\TaskManager\TaskManager\obj\Debug\net6.0\TaskManager.genruntimeconfig.cache
+C:\Projects\c#\TaskManager\TaskManager\obj\Debug\net6.0\ref\TaskManager.dll
